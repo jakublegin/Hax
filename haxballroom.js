@@ -7,7 +7,7 @@ HaxballJS.then((HBInit) => {
     maxPlayers: 16,
     public: true,
     noPlayer: true,
-    token: "thr1.AAAAAGUZWe0Dwrk1wEECPg.X25f0OtxWRA", // Required
+    token: "", // Required
   });
 
   room.setDefaultStadium("Classic");
